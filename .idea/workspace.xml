@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a685771-9837-4f40-acb3-f7f14fcb25d9" name="Changes" comment="Added Testcases">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/restfulbooker/qa/api/exceptions/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/env/dev.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/env/prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/env/qa.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/base/ApiTestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/data/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/hooks/ApiHooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/hooks/TestHooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/AuthSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/BookingSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/HealthCheckSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/PingSchema.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/tests/AuthTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/tests/BookingRequestPayloadTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/tests/HealthCheckTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/tests/PingTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/AuthSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/AuthSchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/BookingSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restfulbooker/qa/api/schemas/BookingSchema.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720172243157</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Testcases">
+      <option name="closed" value="true" />
+      <created>1720172451373</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720172451373</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

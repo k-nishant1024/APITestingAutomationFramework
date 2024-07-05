@@ -1,4 +1,0 @@
-package com.restfulbooker.qa.api.schemas;
-
-public class AuthSchema {
-}
